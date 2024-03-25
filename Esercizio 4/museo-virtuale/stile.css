@@ -45,3 +45,6 @@ img {
     grid-template-rows: 1fr 1fr ;
     column-gap: 5px;
 }
+.griglia img {
+    width: 100px;
+}
