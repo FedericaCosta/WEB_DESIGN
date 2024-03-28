@@ -1,0 +1,49 @@
+.font {
+    font-size: 20px;
+}
+
+body {
+    background-color: rgb(135, 79, 132);
+    font-family: "Raleway", sans-serif;
+};
+
+hr {
+    border: 3px solid white;
+ }
+
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 50px ;
+    text-align: center;
+}
+
+h2, h3, h4 {
+    color: rgb(255, 255, 255);
+    font-size: 35px ;
+    text-align: center;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 20px ;
+    text-align: center;
+}
+
+#image {
+ max-width: 100%;
+ height: auto;
+ display: block;
+ margin: auto;
+}
+
+img {
+    display: block;
+    margin: auto;  
+}
+
+figcaption {
+    color: rgb(255, 255, 255);
+    font-size: 20px ;
+    text-align: center;
+}

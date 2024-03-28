@@ -1,0 +1,30 @@
+#absolute {
+  position:absolute; 
+  top:30px;
+  right:30px;
+  width:200px;
+  height:100px;
+  background-color:rgb(215, 78, 155);
+}
+#fixed {
+  position:fixed; 
+  bottom: 20px;
+  right:20px;
+  width: 200px;
+  height: 100px;
+  background-color: rgb(109, 210, 158);
+}
+.contenitore {
+  width: 200px;
+  height: 1000px;
+}
+#sticky {
+  position: sticky;
+  top: 50px;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(196, 107, 237);
+}
+p {
+  background-color: rgb(107, 154, 89); 
+}
